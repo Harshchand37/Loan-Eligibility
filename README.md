@@ -1,1 +1,1 @@
-# ML_Project1
+# Loan Eligibilty Prediction using Logistic Regression 
